@@ -1,4 +1,9 @@
 print('hello')
-
-# qwdqwdqd
-# цацуа
+if ():
+    print('wef')
+    print('wef')
+    print('wef')
+    print('wef')
+    print('wef')
+    print('wef')
+    print('wef')
